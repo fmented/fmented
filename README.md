@@ -21,8 +21,4 @@
  <img src="https://icongr.am/simple/python.svg?size=32&color=#000000&colored=true"/>
  
  
- </p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmented&layout=compact&hide=html" alt="fmented" /></p>
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fmented&show_icons=true" alt="fmented" /></p>
-
+ 
